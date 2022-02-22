@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "examples": [
+        {
+            "name": "qa 9484",
+            "job": "leader",
+            "id": "333",
+            "createdAt": "2022-02-22T16:28:58.234Z"
+        }
+    ],
+    "required": [
+        "name",
+        "job",
+        "id",
+        "createdAt"
+    ],
+    "properties": {
+        "name": {
+            "type": "string",
+            "examples": [
+                "qa 9484"
+            ]
+        },
+        "job": {
+            "type": "string",
+            "examples": [
+                "leader"
+            ]
+        },
+        "id": {
+            "type": "string",
+            "examples": [
+                "333"
+            ]
+        },
+        "createdAt": {
+            "type": "string",
+            "examples": [
+                "2022-02-22T16:28:58.234Z"
+            ]
+        }
+    }
+}
