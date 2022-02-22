@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    name: Shopee - ${{ matrix.node-version}} ${{ matrix.os }}
+    name: API Automation - ${{ matrix.node-version}} ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
 
     strategy:
