@@ -19,9 +19,15 @@ npm run test
 
 ### Report
 
-See on this link: https://dikabrenda.github.io/reqres.in/
+See on this link: 
+
+```bash
+https://dikabrenda.github.io/reqres.in/
+```
 
 <br>
+
+examples:
 
 <img width="1200" alt="Screen Shot 2022-02-23 at 00 40 47" src="https://user-images.githubusercontent.com/69484656/155190602-6d8be422-3d1e-46be-8b50-2f05d22a54b4.png">
 
